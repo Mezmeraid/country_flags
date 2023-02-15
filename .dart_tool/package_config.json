@@ -2,80 +2,104 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "args",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/args-2.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "characters",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.1",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/characters-1.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.16.0",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/collection-1.17.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/arturograu/development/flutter/packages/flutter",
+      "rootUri": "file:///Users/florian/Library/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "flutter_svg",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-1.1.5",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/flutter_svg-2.0.1",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "js",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/js-0.6.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/material_color_utilities-0.1.5",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/material_color_utilities-0.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.13"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.8.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "path_drawing",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_drawing-1.0.1",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/meta-1.8.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path_parsing",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_parsing-1.0.1",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/path_parsing-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "petitparser",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/petitparser-5.0.0",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/petitparser-5.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/arturograu/development/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/florian/Library/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
+      "name": "vector_graphics",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/vector_graphics-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "vector_graphics_codec",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/vector_graphics_codec-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vector_graphics_compiler",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/vector_graphics_compiler-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
       "name": "vector_math",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.2",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "very_good_analysis",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/very_good_analysis-3.0.2",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/very_good_analysis-3.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "xml",
-      "rootUri": "file:///Users/arturograu/development/flutter/.pub-cache/hosted/pub.dartlang.org/xml-6.1.0",
+      "rootUri": "file:///Users/florian/.pub-cache/hosted/pub.dev/xml-6.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -86,7 +110,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-09-22T13:36:16.133916Z",
+  "generated": "2023-02-15T09:36:25.245882Z",
   "generator": "pub",
-  "generatorVersion": "2.18.0"
+  "generatorVersion": "2.19.2"
 }
